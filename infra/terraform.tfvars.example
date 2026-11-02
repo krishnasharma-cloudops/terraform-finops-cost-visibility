@@ -1,0 +1,3 @@
+subscription_id = "YOUR-AZURE-SUBSCRIPTION-ID"
+storage_account_name = "CHANGE_ME_UNIQUE_123"
+location = "centralindia"

@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "dev": {
+        "totalCost": 4.25,
+        "properties": {
+          "namespace": "dev"
+        }
+      },
+      "monitoring": {
+        "totalCost": 2.75,
+        "properties": {
+          "namespace": "monitoring"
+        }
+      }
+    }
+  ]
+}

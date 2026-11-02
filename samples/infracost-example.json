@@ -1,0 +1,29 @@
+{
+  "version": "0.2",
+  "projects": [
+    {
+      "name": "azure-dev-network-example",
+      "breakdown": {
+        "totalMonthlyCost": "12.50",
+        "resources": [
+          {
+            "name": "azurerm_storage_account.example",
+            "monthlyCost": "12.50"
+          }
+        ]
+      }
+    },
+    {
+      "name": "aws-demo-example",
+      "breakdown": {
+        "totalMonthlyCost": "8.00",
+        "resources": [
+          {
+            "name": "aws_instance.demo",
+            "monthlyCost": "8.00"
+          }
+        ]
+      }
+    }
+  ]
+}
